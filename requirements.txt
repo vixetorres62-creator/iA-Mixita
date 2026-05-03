@@ -1,0 +1,9 @@
+# Dependencias principales
+Flask==2.3.0
+Werkzeug==2.3.0
+
+# Para la app de escritorio (opcional)
+PyQt6==6.5.0
+
+# Desarrollo
+python-dotenv==1.0.0
